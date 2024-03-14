@@ -1,0 +1,18 @@
+INSERT INTO medicine_details (name, type) VALUES
+('Dettol Antiseptic Disinfectant Liquid', 'Antiseptic'),
+('Boroplus Antiseptic Cream', 'Antiseptic'),
+('Himalaya Wellness Antiseptic Cream', 'Antiseptic'),
+('Dr. Morepen Burnol Antiseptic & Germ Control Cream', 'Antiseptic'),
+('Tata 1mg Antifungal Dusting Powder', 'Antifungal'),
+('Abzorb Anti Fungal Dusting Powder', 'Antifungal'),
+('Neosporin Antibiotic Ointment', 'Antibiotic'),
+('Albonate Tablet', 'Antibiotic'),
+('Aimil Fifatrol Tablet', 'Antibiotic'),
+('Bifilac Pre & Probiotic Capsule for Gut Health', 'Antibiotic'),
+('Nutrolin B Plus Capsule', 'Antibiotic'),
+('Systaflam Analgesic, Anti-Inflammatory & Muscle Relaxant Gel', 'Antiinflamatory'),
+('Himalaya Septilin Tablet', 'Antiinflamatory'),
+('Charak Cephagraine Tablet', 'Antiinflamatory'),
+('SBL Arnica Gel', 'Antiinflamatory'),
+('Candid Dusting Powder', 'Antifungal'),
+('Alloes Alodust Antifungal Clotrimazole Absorbent Powder', 'Antifungal');
